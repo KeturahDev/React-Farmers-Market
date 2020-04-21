@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Farmers-Market/static/css/main.6b26d62e.chunk.css",
+    "main.js": "/React-Farmers-Market/static/js/main.3cea4b00.chunk.js",
+    "main.js.map": "/React-Farmers-Market/static/js/main.3cea4b00.chunk.js.map",
+    "runtime-main.js": "/React-Farmers-Market/static/js/runtime-main.177d3e90.js",
+    "runtime-main.js.map": "/React-Farmers-Market/static/js/runtime-main.177d3e90.js.map",
+    "static/js/2.1a57be25.chunk.js": "/React-Farmers-Market/static/js/2.1a57be25.chunk.js",
+    "static/js/2.1a57be25.chunk.js.map": "/React-Farmers-Market/static/js/2.1a57be25.chunk.js.map",
+    "index.html": "/React-Farmers-Market/index.html",
+    "precache-manifest.6ef915b7ecc33753a1d4e6636b6d5a93.js": "/React-Farmers-Market/precache-manifest.6ef915b7ecc33753a1d4e6636b6d5a93.js",
+    "service-worker.js": "/React-Farmers-Market/service-worker.js",
+    "static/css/main.6b26d62e.chunk.css.map": "/React-Farmers-Market/static/css/main.6b26d62e.chunk.css.map",
+    "static/js/2.1a57be25.chunk.js.LICENSE.txt": "/React-Farmers-Market/static/js/2.1a57be25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.177d3e90.js",
+    "static/js/2.1a57be25.chunk.js",
+    "static/css/main.6b26d62e.chunk.css",
+    "static/js/main.3cea4b00.chunk.js"
+  ]
+}
